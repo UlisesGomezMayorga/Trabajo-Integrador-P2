@@ -1,4 +1,3 @@
-# Trabajo-Integrador-P2
 classDiagram
     class Base {
         -Long id
